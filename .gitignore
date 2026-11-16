@@ -1,0 +1,12 @@
+kaggle.json
+.env
+data/raw/
+*.fits
+*.fits.part
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+Thumbs.db

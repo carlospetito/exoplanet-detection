@@ -1,0 +1,12 @@
+# Seções 1 a 4 e análise da seção 5 (rodam só com os CSVs)
+numpy
+pandas>=2.0
+scipy
+scikit-learn>=1.4        # >=1.4: Random Forest aceita valores nulos
+matplotlib
+jupyter
+
+# Somente para RUN_EXTRACTION = True (baixar e processar curvas de luz)
+astropy
+lightkurve>=2.4
+requests

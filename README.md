@@ -67,7 +67,7 @@ O servidor de **busca** do MAST (usado pelo `lightkurve`) travou durante o proje
 **Localmente:**
 
 ```bash
-git clone https://github.com/SEU_USUARIO/exoplanet-detection.git
+git clone https://github.com/carlospetito/exoplanet-detection.git
 cd exoplanet-detection
 pip install -r requirements.txt
 # baixe o dataset em data/raw/ (veja data/README.md) e rode a partir da pasta do notebook:
